@@ -1,0 +1,42 @@
+.nivoSlider {
+	POSITION: relative
+}
+.nivoSlider IMG {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.nivoSlider A.nivo-imageLink {
+	Z-INDEX: 6; BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: none; HEIGHT: 100%; BORDER-TOP: 0px; TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+.nivo-slice {
+	Z-INDEX: 5; POSITION: absolute; DISPLAY: block; HEIGHT: 100%
+}
+.nivo-box {
+	Z-INDEX: 5; POSITION: absolute; DISPLAY: block
+}
+.nivo-caption {
+	Z-INDEX: 8; POSITION: absolute; WIDTH: 100%; BOTTOM: 0px; BACKGROUND: #555555; COLOR: #fff; LEFT: 0px; opacity: 0.8
+}
+.nivo-caption P {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.nivo-caption A {
+	DISPLAY: inline !important
+}
+.nivo-html-caption {
+	DISPLAY: none
+}
+.nivo-directionNav A {
+	Z-INDEX: 9; POSITION: absolute; TOP: 45%; CURSOR: pointer
+}
+.nivo-prevNav {
+	LEFT: 0px
+}
+.nivo-nextNav {
+	RIGHT: 0px
+}
+.nivo-controlNav A {
+	Z-INDEX: 9; POSITION: relative; CURSOR: pointer
+}
+.nivo-controlNav A.active {
+	FONT-WEIGHT: bold
+}

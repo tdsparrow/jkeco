@@ -1,0 +1,105 @@
+BODY {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: 12px/18px Arial; BACKGROUND: url(../images/page-back3.jpg); COLOR: #333333; PADDING-TOP: 0px
+}
+.twoColFixRtHdr #container {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: left; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 960px; PADDING-RIGHT: 0px; BACKGROUND: #ffffff; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.twoColFixRtHdr #menu {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; BACKGROUND: #d4d4d4; HEIGHT: 24px; PADDING-TOP: 0px
+}
+.twoColFixRtHdr #header {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #dddddd; PADDING-TOP: 0px
+}
+.twoColFixRtHdr #tab {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 960px; PADDING-RIGHT: 0px; BACKGROUND: #dddddd; HEIGHT: 94px; PADDING-TOP: 0px
+}
+.twoColFixRtHdr #floating_link {
+	BACKGROUND-IMAGE: url(../images/floating.png); POSITION: fixed; WIDTH: 55px; BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 175px; OVERFLOW: hidden; TOP: 117px; left:0px
+}
+.twoColFixRtHdr #sidebar1 {
+	BORDER-BOTTOM-STYLE: none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; MARGIN: 0px; PADDING-LEFT: 30px; WIDTH: 300px; PADDING-RIGHT: 10px; BORDER-TOP-STYLE: none; BACKGROUND: #fff; FLOAT: right; PADDING-TOP: 15px
+}
+.twoColFixRtHdr #sidebarPhotos {
+	BORDER-BOTTOM-STYLE: none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; BORDER-RIGHT-STYLE: none; MARGIN: 0px; PADDING-LEFT: 12px; WIDTH: 165px; PADDING-RIGHT: 7px; BORDER-TOP-STYLE: none; BACKGROUND: #fff; FLOAT: right; PADDING-TOP: 10px
+}
+.twoColFixRtHdr #mainContent {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 10px; MARGIN: 0px 345px 0px 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-RIGHT: #345aa2 1px solid; PADDING-TOP: 20px
+}
+.twoColFixRtHdr #mainHome {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 80px 0px 0px; PADDING-LEFT: 0px; WIDTH: 960px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.twoColFixRtHdr #mainPhotos {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 740px; PADDING-RIGHT: 0px; BORDER-TOP-STYLE: none; HEIGHT: 600px; BORDER-LEFT-STYLE: none; BORDER-RIGHT: #355aa1 1px solid; PADDING-TOP: 20px
+}
+.twoColFixRtHdr #colLeft {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; WIDTH: 440px; PADDING-RIGHT: 20px; BACKGROUND: #ffffff; FLOAT: left; PADDING-TOP: 20px
+}
+.twoColFixRtHdr #colRgt {
+	BORDER-BOTTOM-STYLE: none; BORDER-LEFT: #355aa1 2px solid; PADDING-BOTTOM: 10px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 20px; WIDTH: 470px; PADDING-RIGHT: 20px; BORDER-TOP-STYLE: none; BACKGROUND: #ffffff; FLOAT: right; PADDING-TOP: 20px
+}
+.twoColFixRtHdr #footer {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BACKGROUND: #345aa2 repeat-x; HEIGHT: 25px; PADDING-TOP: 0px
+}
+.twoColFixRtHdr #footerSocial {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 960px; PADDING-RIGHT: 0px; DISPLAY: inline-table; BACKGROUND: #345aa2 repeat-x; FLOAT: none; HEIGHT: 32px; CLEAR: both; PADDING-TOP: 6px
+}
+.footer-text {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial; COLOR: #fff; FONT-SIZE: 11px; FONT-WEIGHT: normal; PADDING-TOP: 6px
+}
+H1 {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial; COLOR: #345aa2; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+H2 {
+	LINE-HEIGHT: 14px; FONT-FAMILY: Arial; COLOR: #345aa2; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+A:link {
+	COLOR: #345aa2
+}
+A:visited {
+	COLOR: #5678b8
+}
+.fltrt {
+	FLOAT: right; MARGIN-LEFT: 8px
+}
+.fltlft {
+	FLOAT: left; MARGIN-RIGHT: 8px
+}
+.clearfloat {
+	LINE-HEIGHT: 0px; HEIGHT: 0px; CLEAR: both; FONT-SIZE: 1px
+}
+.quicktitle {
+	LINE-HEIGHT: 20px; FONT-STYLE: normal; FONT-FAMILY: Arial; COLOR: #345aa2; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.quicktext {
+	LINE-HEIGHT: 17px; FONT-FAMILY: Arial; COLOR: #333333; FONT-SIZE: 12px
+}
+.caption {
+	LINE-HEIGHT: 13px; FONT-FAMILY: Arial; COLOR: #333333; FONT-SIZE: 10px
+}
+.botlinks {
+	LINE-HEIGHT: 13px; FONT-FAMILY: Arial; COLOR: #333333; FONT-SIZE: 11px
+}
+.bluetext {
+	LINE-HEIGHT: 17px; FONT-STYLE: normal; FONT-FAMILY: Arial; COLOR: #345aa2; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.bluetext14 {
+	LINE-HEIGHT: 14px; FONT-FAMILY: Arial; COLOR: #345aa2; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.bluetext15 {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial; COLOR: #345aa2; FONT-SIZE: 15px
+}
+.bluetext16 {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial; COLOR: #345aa2; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.orangetext {
+	LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Arial; COLOR: #f59022; FONT-SIZE: 13px; FONT-WEIGHT: normal
+}
+.orange15 {
+	LINE-HEIGHT: 16px; FONT-STYLE: normal; FONT-FAMILY: Arial; COLOR: #f59022; FONT-SIZE: 15px; FONT-WEIGHT: bold
+}
+.graytext {
+	LINE-HEIGHT: 18px; FONT-STYLE: normal; FONT-FAMILY: Arial; COLOR: #999999; FONT-SIZE: 13px; FONT-WEIGHT: normal
+}
+.ul-link LI.pdf {
+	BACKGROUND: url(../images/pdf_icon.jpg) no-repeat 0% 0px
+}
