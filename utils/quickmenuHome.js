@@ -1,5 +1,5 @@
 ﻿//Compressed CSS Styles
-document.write('<!--%%%%%%%%%%%% QuickMenu Styles [Keep in head for full validation!] %%%%%%%%%%%--><style type="text/css">/*!!!!!!!!!!! QuickMenu Core CSS [Do Not Modify!] !!!!!!!!!!!!!*/.qmmc .qmdivider{display:block;font-size:1px;border-width:0px;border-style:solid;position:relative;z-index:1;}.qmmc .qmdividery{float:left;width:0px;}.qmmc .qmtitle{display:block;cursor:default;white-space:nowrap;position:relative;z-index:1;}.qmclear {font-size:1px;height:0px;width:0px;clear:left;line-height:0px;display:block;float:none !important;}.qmmc {position:relative;zoom:1;z-index:10;}.qmmc a, .qmmc li {float:left;display:block;white-space:nowrap;position:relative;z-index:1;}.qmmc div a, .qmmc ul a, .qmmc ul li {float:none;}.qmsh div a {float:left;}.qmmc div{visibility:hidden;position:absolute;}.qmmc .qmcbox{cursor:default;display:block;position:relative;z-index:1;}.qmmc .qmcbox a{display:inline;}.qmmc .qmcbox div{float:none;position:static;visibility:inherit;left:auto;}/*!!!!!!!!!!! QuickMenu Styles [Please Modify!] !!!!!!!!!!!*//* QuickMenu 0 */#qm0 a{padding:5px 4px 5px 5px;color:#555555;font-family:Arial;font-size:10px;text-decoration:none;}#qm0 div{padding:10px;margin:-2px 0px 0px;background-color:transparent;border-style:none;}#qm0 div a{padding:3px 10px 3px 5px;background-color:transparent;font-size:11px;border-width:0px;border-style:none;}#qm0 div a:hover{background-color:#DADADA;color:#1B4AB1;}#qm0 div a:hover{background-color:#DADADA;color:#1B4AB1;}body #qm0 div .qmactive, body #qm0 div .qmactive:hover{background-color:#DADADA;color:#1B4AB1;}#qm0 .qmtitle{cursor:default;padding:3px 0px 3px 4px;color:#444444;font-family:arial;font-size:11px;font-weight:bold;}#qm0 .qmdividerx{border-top-width:1px;margin:4px 0px;border-color:#BFBFBF;}#qm0 .qmdividery{border-left-width:1px;height:15px;margin:4px 2px 0px;border-color:#AAAAAA;}#qm0 .qmritem span{border-color:#DADADA;background-color:#F7F7F7;}#qm0 .qmritemcontent{padding:0px 0px 0px 4px;}ul#qm0 ul{padding:10px;margin:-2px 0px 0px;background-color:#F7F7F7;border-width:1px;border-style:solid;border-color:#DADADA;}ul#qm0 li:hover > a{background-color:#F7F7F7;}</style>');
+document.write('<!--%%%%%%%%%%%% QuickMenu Styles [Keep in head for full validation!] %%%%%%%%%%%--><style type="text/css">/*!!!!!!!!!!! QuickMenu Core CSS [Do Not Modify!] !!!!!!!!!!!!!*/.qmmc .qmdivider{display:block;font-size:1px;border-width:0px;border-style:solid;position:relative;z-index:1;}.qmmc .qmdividery{float:left;width:0px;}.qmmc .qmtitle{display:block;cursor:default;white-space:nowrap;position:relative;z-index:1;}.qmclear {font-size:1px;height:0px;width:0px;clear:left;line-height:0px;display:block;float:none !important;}.qmmc {position:relative;zoom:1;z-index:10;}.qmmc a, .qmmc li {float:left;display:block;white-space:nowrap;position:relative;z-index:1;}.qmmc div a, .qmmc ul a, .qmmc ul li {float:none;}.qmsh div a {float:left;}.qmmc div{visibility:hidden;position:absolute;}.qmmc .qmcbox{cursor:default;display:block;position:relative;z-index:1;}.qmmc .qmcbox a{display:inline;}.qmmc .qmcbox div{float:none;position:static;visibility:inherit;left:auto;}/*!!!!!!!!!!! QuickMenu Styles [Please Modify!] !!!!!!!!!!!*//* QuickMenu 0 */#qm0 a{padding:5px 4px 5px 5px;color:#555555;font-family:Arial;font-size:1.2em;text-decoration:none;}#qm0 div{padding:10px;margin:-2px 0px 0px;background-color:transparent;border-style:none;}#qm0 div a{padding:3px 10px 3px 5px;background-color:transparent;font-size:1.2em;border-width:0px;border-style:none;}#qm0 div a:hover{background-color:#DADADA;color:#1B4AB1;}#qm0 div a:hover{background-color:#DADADA;color:#1B4AB1;}body #qm0 div .qmactive, body #qm0 div .qmactive:hover{background-color:#DADADA;color:#1B4AB1;}#qm0 .qmtitle{cursor:default;padding:3px 0px 3px 4px;color:#444444;font-family:arial;font-size:1.2em;font-weight:bold;}#qm0 .qmdividerx{border-top-width:1px;margin:4px 0px;border-color:#BFBFBF;}#qm0 .qmdividery{border-left-width:1px;height:15px;margin:4px 2px 0px;border-color:#AAAAAA;}#qm0 .qmritem span{border-color:#DADADA;background-color:#F7F7F7;}#qm0 .qmritemcontent{padding:0px 0px 0px 4px;}ul#qm0 ul{padding:10px;margin:-2px 0px 0px;background-color:#F7F7F7;border-width:1px;border-style:solid;border-color:#DADADA;}ul#qm0 li:hover > a{background-color:#F7F7F7;}</style>');
 
 
 
@@ -53,10 +53,6 @@ document.write('	<a href="Humidification/IndustrialAppIntro.htm">工业</a>');
 document.write('	<a href="Humidification/GreenhouseHumidification.htm">温室</a>');
 document.write('	<a href="Humidification/ColdStorageHumidification.htm">冷库</a>');
 document.write('	<a href="Humidification/BarrelHumidification.htm">酒桶储存</a>');
-document.write('	<span class="qmdivider qmdividerx" ></span>');
-document.write('	<span class="qmtitle" >相关资料</span>');
-document.write('	<a href="http://www.microcool.com/industrial-applications-documents.htm">文档资料库</a>');
-document.write('	<a href="Humidification/HumidificationPhoto.htm">浏览图片</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="IndustrialCooling/OverView.htm">等焓冷却</a>');
@@ -66,10 +62,6 @@ document.write('	<span class="qmdivider qmdividerx" ></span>');
 document.write('	<span class="qmtitle" >应用领域</span>');
 document.write('	<a href="IndustrialCooling/CondenserCoilCooling.htm">冷凝器进风冷却</a>');
 document.write('	<a href="IndustrialCooling/EnergySavingCooling.htm">节能降温</a>');
-document.write('	<span class="qmdivider qmdividerx" ></span>');
-document.write('	<span class="qmtitle" >相关资料</span>');
-document.write('	<a href="http://www.microcool.com/industrial-applications-documents.htm">文档资料库</a>');
-document.write('	<a href="http://www.microcool.com/industrial-cooling/industrial-cooling-photos.htm">浏览图片</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="DustOdorControl/OverView.htm">环境保护</a>');
@@ -78,10 +70,6 @@ document.write('    <a href="DustOdorControl/OverView.htm">概况</a>');
 document.write('	<span class="qmdivider qmdividerx" ></span><span class="qmtitle" >应用领域</span>');
 document.write('	<a href="DustOdorControl/TransferStations.htm">降尘处理</a>');
 document.write('	<a href="DustOdorControl/OdorControl.htm">除臭处理</a>');
-document.write('	<span class="qmdivider qmdividerx" ></span>');
-document.write('	<span class="qmtitle" >相关资料</span>');
-document.write('	<a href="http://www.microcool.com/industrial-applications-documents.htm">文档资料库</a>');
-document.write('	<a href="http://www.microcool.com/dust-odor-control/dust-odor-photos.htm">浏览图片</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="http://www.microcool.com/outdoor-cooling/index.htm">户外降温</a>');
