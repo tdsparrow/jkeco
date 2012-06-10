@@ -72,15 +72,17 @@ document.write('	<a href="../DustOdorControl/TransferStations.htm">降尘处理<
 document.write('	<a href="../DustOdorControl/OdorControl.htm">除臭处理</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
-document.write('  <a href="http://www.microcool.com/equipment/index.htm">系统设备</a>');
+document.write('  <a href="http://www.microcool.com/equipment/index.htm">高压雾化系统设备</a>');
 document.write('  <div>');
-document.write('    <a href="http://www.microcool.com/equipment/index.htm">概况</a>');
-document.write('    <span class="qmdivider qmdividerx" ></span>');
-document.write('	<span class="qmtitle" >设备类型</span>');
-document.write('	<a href="http://www.microcool.com/equipment/pump-systems.htm">Pump Systems</a>');
-document.write('	<a href="http://www.microcool.com/equipment/cooling-nozzles.htm">Nozzles</a>');
-document.write('	<a href="http://www.microcool.com/equipment/cooling-control-equipment.htm">Control Equipment</a>');
-document.write('	<a href="http://www.microcool.com/equipment/cooling-water-treatment.htm">Water Treatment</a>');
+document.write('    <a href="../Equipment/ultrasonic.htm">高压雾化主机</a>');
+document.write('    <a href="../Equipment/FogFan.htm">高压喷雾风扇</a>');
+
+document.write('	<a href="http://www.microcool.com/outdoor-cooling/equipment/index.htm">高压歧管及喷嘴</a>');
+document.write('  </div>');
+document.write('  <span class="qmdivider qmdividery" ></span>');
+document.write('  <a href="javascript:void(0);">超声波雾化</a>');
+document.write('  <div>');
+document.write('	<a href="../Ultrasonic/UltrasonicSystem.htm">超声波雾化系统</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="http://www.microcool.com/about/index.htm">关于我们</a>');
