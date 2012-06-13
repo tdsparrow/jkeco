@@ -78,12 +78,12 @@ document.write('    <a href="../OutdoorCooling/Residential.htm">家居住宅</a>
 document.write('	<a href="../OutdoorCooling/Commercial.htm">商业应用</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
-document.write('  <a href="http://www.microcool.com/equipment/index.htm">高压雾化系统设备</a>');
+document.write('  <a href="">高压雾化系统设备</a>');
 document.write('  <div>');
 document.write('    <a href="../Equipment/ultrasonic.htm">高压雾化主机</a>');
 document.write('    <a href="../Equipment/FogFan.htm">高压喷雾风扇</a>');
 
-document.write('	<a href="http://www.microcool.com/outdoor-cooling/equipment/index.htm">高压歧管及喷嘴</a>');
+document.write('	<a href="">高压歧管及喷嘴</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="javascript:void(0);">超声波雾化</a>');
