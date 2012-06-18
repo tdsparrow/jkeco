@@ -55,7 +55,7 @@ document.write('	<a href="Humidification/ColdStorageHumidification.htm">冷库�
 document.write('	<a href="Humidification/BarrelHumidification.htm">酒窖加湿</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
-document.write('  <a href="IndustrialCooling/OverView.htm">等焓冷却</a>');
+document.write('  <a href="IndustrialCooling/OverView.htm">进风冷却</a>');
 document.write('  <div>');
 document.write('    <a href="IndustrialCooling/OverView.htm">概况</a>');
 document.write('	<span class="qmdivider qmdividerx" ></span>');
