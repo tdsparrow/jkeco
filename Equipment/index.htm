@@ -23,24 +23,44 @@
                         </STYLE>
                         <![endif]-->
     <SCRIPT type=text/javascript>
-
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-10033065-1']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
+	  var g=document.getElementById.bind(document);
+	  
     </SCRIPT>
+
+	<style>
+		.lightbox_background{
+			display: none;
+			position: absolute;
+			top: 0%;
+			left: 0%;
+			width: 100%;
+			height: 100%;
+			background-color: black;
+			z-index:1001;
+			-moz-opacity: 0.8;
+			opacity:.80;
+			filter: alpha(opacity=80);
+		}
+		.white_content {
+			display: none;
+			position: absolute;
+			top: 25%;
+			left: 25%;
+			width: 50%;
+			height: 50%;
+			padding: 16px;
+			border: 2px solid orange;
+			background-color: white;
+			z-index:1002;
+			overflow: auto;
+		}
+	</style>
 
     <META name=GENERATOR content="MSHTML 8.00.7601.17785">
   </HEAD>
   <BODY class=twoColFixRtHdr>
     <DIV id=container>
-      <DIV id=tab>
+p      <DIV id=tab>
         <IMG border=0 src="../images/title.jpg" width=960 height=94 useMap=#home>
         <!-- <A id=floating_link href="../About/Contact.htm" target=_blank></A> -->
         <A id=floating_link href="../About/Contact.htm" target=_blank></A>
@@ -64,7 +84,7 @@
             <IMG src="../images/arrw-dbl-blub.gif" width=7 height=8><A href="../Equipment/FogFan.htm">高压喷雾风扇</A><BR>
             <IMG src="../images/arrw-dbl-blub.gif" width=7 height=8><A href="../Equipment/FogFan.htm">高压歧管及喷嘴</A><BR>
             <SPAN class=caption>Humidification</SPAN>
-            <A href="../industrial-humidification/images/ph-lg-cold3.jpg" target=_blank><IMG border=0 src="../images/ph-sm-cold3.jpg" width=295 height=230></A>
+            <A href="javascript: void(0);" onclick="g('fade').style.display='block';g('light').style.display='block';g('light-box').src='http://pic.yupoo.com/tdsparow/AOPHzkMN/large.jpg';" target=_blank><IMG border=0 src="../images/ph-sm-cold3.jpg" width=295 height=230></A>
             <SPAN class=caption>Process Cooling</SPAN> 
             <A href="../industrial-cooling/images/ph-lg-energy1.jpg" target=_blank><IMG border=0 src="../images/ph-sm-energy1.jpg" width=295 height=230></A> 
         </DIV><!-- end #sidebar1 --></DIV>
@@ -109,7 +129,7 @@
 
 			<li><A href="../industrial-humidification/images/ph-lg-cold3.jpg" target=_blank><IMG border=0 src="../images/ph-sm-cold3.jpg" width=295 height=230></A>
 			<li><A href="../industrial-humidification/images/ph-lg-cold3.jpg" target=_blank><IMG border=0 src="../images/ph-sm-cold3.jpg" width=295 height=230></A>
-		  </P>
+		  </P>p
 		</DIV>
 
         <P><IMG src="../images/spacer.gif" width=30 height=130></P><BR>
@@ -123,7 +143,14 @@
           .white {
           FONT-FAMILY: Arial; COLOR: #ffffff; FONT-SIZE: 11px
           }
+
+
         </STYLE>
         <SPAN class=white>均锴能源科技 2012</SPAN><!-- #EndLibraryItem --></DIV><!-- end #footer --></DIV>
+
+	<div id="fade" class="lightbox_background" onclick="g('fade').style.display='none';g('light').style.display='none';"></div>
+	<div id="light" class="white_content" onclick="g('fade').style.display='none';g('light').style.display='none';">
+      <A href="javascript: void(0);" onclick="g('fade').style.display='none';g('light').style.display='none';"><IMG id='light-box' onclick="" src="../images/ph-sm-cold3.jpg" width="100%" height="100%" ></A>
+	</div>
   </BODY>
 </HTML>
