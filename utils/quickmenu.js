@@ -93,7 +93,7 @@ document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="javascript:void(0);">雾化风扇</a>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
-document.write('  <a href="javascript:void(0)">我们的服务</a>');
+document.write('  <a href="javascript:void(0)">产品知识</a>');
 document.write('  <div>');
 document.write('    <a href="../About/index.htm">关于 均锴能源科技</a>');
 document.write('	<a href="../About/News.htm">新闻</a>');
