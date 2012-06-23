@@ -42,8 +42,6 @@ qmad.br_navigator=navigator.userAgent.indexOf("Netscape")+1;qmad.br_version=pars
 //Compressed Menu Structure
 //实际菜单栏
 document.write('<div id="qm0" class="qmmc">');
-document.write('  <a href="../Humidification/IndustrialAppIntro.htm">工业应用介绍</a>');
-document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="../Humidification/OverView.htm">湿度控制</a>');
 document.write('  <div>');
 document.write('    <a href="../Humidification/OverView.htm">概况</a><span class="qmdivider qmdividerx" ></span>');
