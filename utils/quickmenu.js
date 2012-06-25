@@ -42,6 +42,15 @@ qmad.br_navigator=navigator.userAgent.indexOf("Netscape")+1;qmad.br_version=pars
 //Compressed Menu Structure
 //实际菜单栏
 document.write('<div id="qm0" class="qmmc">');
+document.write('  <a href="../IndustrialCooling/OverView.htm">进风冷却</a>');
+document.write('  <div>');
+document.write('    <a href="../IndustrialCooling/OverView.htm">概况</a>');
+document.write('	<span class="qmdivider qmdividerx" ></span>');
+document.write('	<span class="qmtitle" >应用领域</span>');
+document.write('	<a href="../IndustrialCooling/CondenserCoilCooling.htm">冷凝器进风冷却</a>');
+document.write('	<a href="../IndustrialCooling/EnergySavingCooling.htm">节能降温</a>');
+document.write('  </div>');
+document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="../Humidification/OverView.htm">湿度控制</a>');
 document.write('  <div>');
 document.write('    <a href="../Humidification/OverView.htm">概况</a><span class="qmdivider qmdividerx" ></span>');
@@ -50,15 +59,6 @@ document.write('	<a href="../Humidification/IndustrialAppIntro.htm">工业加湿
 document.write('	<a href="../Humidification/GreenhouseHumidification.htm">温室加湿</a>');
 document.write('    <a href="../Humidification/ColdStorageHumidification.htm">冷库加湿</a>');
 document.write('    <a href="../Humidification/BarrelHumidification.htm">酒窖加湿</a>');
-document.write('  </div>');
-document.write('  <span class="qmdivider qmdividery" ></span>');
-document.write('  <a href="../IndustrialCooling/OverView.htm">进风冷却</a>');
-document.write('  <div>');
-document.write('    <a href="../IndustrialCooling/OverView.htm">概况</a>');
-document.write('	<span class="qmdivider qmdividerx" ></span>');
-document.write('	<span class="qmtitle" >应用领域</span>');
-document.write('	<a href="../IndustrialCooling/CondenserCoilCooling.htm">冷凝器进风冷却</a>');
-document.write('	<a href="../IndustrialCooling/EnergySavingCooling.htm">节能降温</a>');
 document.write('  </div>');
 document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <a href="../DustOdorControl/OverView.htm">环境保护</a>');
