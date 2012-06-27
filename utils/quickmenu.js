@@ -87,3 +87,5 @@ document.write('  <span class="qmdivider qmdividery" ></span>');
 document.write('  <span class="qmclear"> </span>');
 document.write('</div>');
 document.write('<script type="text/javascript">qm_create(0,false,0,500,false,false,false,false,false);</script>');
+
+document.write('<script type="text/javascript">var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src=\'" + _bdhmProtocol + "hm.baidu.com/h.js%3Fa663d31861af20b55e9d5f2c6f773571\' type=\'text/javascript\'%3E%3C/script%3E"));</script>');
